@@ -1,0 +1,21 @@
+{
+  "name": "minecraft-resourcepack-compile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "minecraft",
+    "gif",
+    "png"
+  ],
+  "author": "Luis Bazán",
+  "license": "MIT",
+  "dependencies": {
+    "compressing": "^1.6.2",
+    "gif-to-png": "^2.0.5",
+    "yargs": "^17.5.1"
+  }
+}

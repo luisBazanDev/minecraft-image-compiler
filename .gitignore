@@ -1,0 +1,4 @@
+node_modules
+build
+gifs/*.gif
+!gif/test.gif
